@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 mjbbm
-=======
 rferf
 srfgsf
 sfsfs
->>>>>>> master
+ferf
+srfgsf
+sfsfs
 111111
 This jhvjvjh
 kjbk
